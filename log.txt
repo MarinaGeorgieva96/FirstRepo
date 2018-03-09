@@ -1,0 +1,14 @@
+commit e2dbaf702ea261a790862e8fb307d0fd9b26d0a3 (origin/master)
+Author: georgieva.marina@students.finki.ukim.mk 
+<georgieva.marina@students.finki.ukim.mk>
+Date:   Fri Mar 9 15:53:43 2018 +0100
+
+    modify l1.txt
+
+commit 31eaa530965c3f24feedbf4cf48194624712d91d
+Author: georgieva.marina@students.finki.ukim.mk 
+<georgieva.marina@students.finki.ukim.mk>
+Date:   Fri Mar 9 15:49:01 2018 +0100
+
+    Initial commit
+
